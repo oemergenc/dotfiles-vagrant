@@ -1,5 +1,6 @@
 # dotfiles-vagrant
-This repository contains a vagrant configuration to demonstrate my dotfile setup
+This repository contains a vagrant configuration to demonstrate my dotfile setup.
+My dotfiles can be found [here](https://github.com/oemergenc/dotfiles).
 
 # Usage
 ```
