@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone --recursive --separate-git-dir=$HOME/.dotfiles https://github.com/oemergenc/dotfiles.git $HOME/tmpdotfiles
+git clone --separate-git-dir=$HOME/.dotfiles https://github.com/oemergenc/dotfiles.git $HOME/tmpdotfiles
 
 chmod +x $HOME/tmpdotfiles/.dot/install/setup-dotfiles.sh
 $HOME/tmpdotfiles/.dot/install/setup-dotfiles.sh
